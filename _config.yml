@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+title:              Look and Love
+email:             vuquangnguyen2019@yahoo.com
+description:        Chia sẻ những hình ảnh thú vị về cuộc sống qua Nhiếp ảnh
+author:             Lê Quang Photos
+baseurl:            "/lookandlove"
+url:                "https://vuquangnguyen2016.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   LeQuangHCMUS
+github_username:    vuquangnguyen2016
+facebook_username:  lequangvietnam
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
